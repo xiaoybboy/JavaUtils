@@ -8,7 +8,7 @@ package com.xiaoyb.baseproblem;
  * 
  * 当后面的元素大于Max时，将Max的值赋给SecondMax,后面的赋给Max.
  * 
- * 当后面的元素小于Max时，比较后面的元素与SecondMax的大小。如果大于SecondMax，则交换
+ * 当后面的元素小于Max时，比较后面的元素与SecondMax的大小。如果大于SecondMax，则把后面的元素的值赋给SecondMax
  * 
  * @author XIAO
  *
